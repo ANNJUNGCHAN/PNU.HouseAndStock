@@ -28,15 +28,15 @@
 
 ### 파일
 - Data : 분석을 위한 데이터가 저장되어 있습니다.
-    - housereg.csv : 
-    - stockreg.xlsx : 
-- House : 
-    - code.r : 
-- Poster :
-    - poster_pdf.pdf :
-    - poster_ppt.pptx : 
-- Stock : 
-    - code.r : 
+    - housereg.csv : 부동산 시장과 정책기조의 관계를 분석할 때 사용한 데이터
+    - stockreg.xlsx : 주식 시장과 정책기조의 관계를 분석할 때 사용한 데이터
+- House : 부동산 시장과 정책기조의 관계 분석
+    - code.r : 부동산 시장과 정책기조의 관계 분석을 위한 코드
+- Poster : 연구 포스터
+    - poster_pdf.pdf : pdf 버전
+    - poster_ppt.pptx : ppt 버전
+- Stock : 주식 시장과 정책기조 관계 분석
+    - code.r : 주식 시장과 정책기조 관계 분석을 위한 코드
 
 
 ## 결론
