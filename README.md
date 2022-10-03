@@ -49,4 +49,6 @@
 
 ![poster_pdf](https://user-images.githubusercontent.com/89781598/193561074-b7ad2bdf-5b9a-46dd-8b85-a99be81f8da6.jpg)
 
+## 문의사항
+* email : ajc227ung@gmail.com
 
